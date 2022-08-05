@@ -3,6 +3,7 @@ box-sizing: border-box;
 margin: 0;
 padding: 0;
 font-family: 'Courier New', Courier, monospace;
+/*usei essa font pq me lembra do courier do new vegas, big iron big iron*/
 }
 body {
 display: flex;
