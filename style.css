@@ -17,7 +17,7 @@ height: auto;
 display: grid;
 grid-template-columns: 2fr 2fr;
 }
-#info > div {
+#info div {
     padding: 10px;
     background-color: aquamarine;
     margin: auto;
